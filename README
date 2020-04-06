@@ -1,0 +1,11 @@
+About the Software
+
+Built on Python3, we have used various libaries in Python to solve real life problems. 
+
+We took the data of total cases in the world and the recovery date with the last date as 1st April and the tried to predict the future of both Time-Series using Vanilla LSTM.
+The training was done using Keras model with 1000 epochs using 30 percent of the data as testing set and remaining as training set. The code for this can be found in training.py
+
+In the GUI we have three different type of maps: Hospitals near me, Cases Count and Heat Map. As there are only a few cases till this date in Nepal, the Heat Map isn't that effective but gives an overview of the cases. Hospitals near me is a brilliant way to know where to consult in cases of any trouble and yes it works without GPS to give an estimate of the location
+
+Thanking you
+ 
