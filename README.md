@@ -1,4 +1,4 @@
-<h1> Online hackathon</h1>
+<h1> Code For Cause Online hackathon</h1>
 <h2> organized by: Kathford COllege</h2>
 
 <h4> Done by Team cogent</h4>
